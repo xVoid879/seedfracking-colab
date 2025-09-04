@@ -8,3 +8,5 @@ https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/b
 
 
 All credits goes to the users who created the inital program (not me. all i did was make it into an inpyb file, host it, and make it a link).
+
+Users MUST follow the license on the Github Repo's in the ReadMe if they want to use do something with it. 
