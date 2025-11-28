@@ -1,12 +1,13 @@
+# Seedfracking Colab
+Hosting IPYNB Files for seedcracking and seedfinding in Colab so it's easier for a user to execute (Only for those that require a NVIDIA GPU).
 
-COMMISSION (made by https://github.com/gaider10 )(andrew):
-https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/Commission.ipynb
+If you just want a blank Colab page that automatically connects to a T4 GPU, you can see it here:
+- Blank T4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/BlankT4.ipynb)
 
-Brayden's Structure Cracker https://github.com/brayden11250/general_seedcracker:
+## Links
+1. COMMISSION 1.0 (made by https://github.com/gaider10): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/COMMISSION.ipynb)
 
-https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/braydenstructure.ipynb
-
-Blank T4: https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/BlankT4.ipynb
+2. [Brayden's Structure Cracker](https://github.com/brayden11250/general_seedcracker): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xVoid879/seedfracking-colab/blob/main/braydenstructure.ipynb)
 
 
-All credits goes to the users who created the inital program (not me. all i did was make it into an inpyb file, host it, and make it a link).
+#### All credits goes to the users who created the initial program (Not me, unless I made the program. Read License as well).
